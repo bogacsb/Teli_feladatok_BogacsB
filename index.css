@@ -101,6 +101,9 @@ footer{
     background-color: var(--main-blue-color);
     padding: 10px;
     text-align: center;
+}
+
+footer p{
     text-decoration: none;
     color: black;
 }
